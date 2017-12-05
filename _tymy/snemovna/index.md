@@ -12,7 +12,9 @@ __Pro veřejnost:__
 
 Snažíme se být co nejtransparantnější, ale doufám, že je zřejmé, že mnoho dokumentů nemůžeme z legálních nebo jiných důvodů zveřejňovat, ale tady je vše co můžeme: 
 
+- [Newslettery](https://drive.google.com/drive/folders/19vF4VW9S0N00f7mOBMOxPNlpUscEVnKj?usp=sharing)
 - [Mediální výstupy](https://drive.google.com/drive/folders/1V67BpnxUAW7LP7s49ctVlDMbwDvbCSj3?usp=sharing)
+- [Životopisy poslanců](https://drive.google.com/drive/folders/0B49RiQZAIpe2OVhvODJ1T2V1bkk?usp=sharing)
 
 __Pro poslance a asistenty:__
 
@@ -21,6 +23,7 @@ Asistentni a podobní, o přístupy žádejte své poslance nebo se zeptejte ně
 
 Je vaší zodpovědností, že váš poslanec umí dávat a odebírat přístupy.
 
-- [Mapy](https://drive.google.com/drive/folders/1vhZGLh5F82NYhl0eS_k7ahuOOo6ZRc0y?usp=sharing)
-
-- [Dopisy](https://drive.google.com/drive/folders/143cJUH9GnBYX3ueZSrGqLeivCbW6gU8A)
+- [RFC Repozitář](https://drive.google.com/drive/folders/159-a7kKpU3bTXwwEjtxaxtbsvvZJIKiF?usp=sharing)
+- [Výbory detailní info](https://drive.google.com/drive/folders/1Sf4_QnsVKs36Eaf5uizLra_Q0ZgWoudB?usp=sharing)
+- [Zápisy schuzek asistentů](https://drive.google.com/drive/folders/1vVSmkJuPC8AeOSF_wrIgjhQ91mkCxbgh?usp=sharing)
+- [Organizace klubu](https://drive.google.com/drive/folders/0B8c0tCX3UmEKLWpIRGdiYmFkQ0U?usp=sharing)
