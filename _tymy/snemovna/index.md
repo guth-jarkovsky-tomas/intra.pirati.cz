@@ -27,3 +27,4 @@ Je vaší zodpovědností, že váš poslanec umí dávat a odebírat přístupy
 - [Výbory detailní info](https://drive.google.com/drive/folders/1Sf4_QnsVKs36Eaf5uizLra_Q0ZgWoudB?usp=sharing)
 - [Zápisy schuzek asistentů](https://drive.google.com/drive/folders/1vVSmkJuPC8AeOSF_wrIgjhQ91mkCxbgh?usp=sharing)
 - [Organizace klubu](https://drive.google.com/drive/folders/0B8c0tCX3UmEKLWpIRGdiYmFkQ0U?usp=sharing)
+- [Seznam TODO](https://drive.google.com/drive/folders/1ObUEdWLacDT3mpGorU9xX7aMptzrltOF?usp=sharing)
