@@ -8,6 +8,7 @@
 Ahoj všichni, 
 Vítejte na našem rozcestníku dokumentů poslanecké sněmovny. 
 Pro veřejnost: 
+
 Snažíme se být co nejtransparantnější, ale doufám, že je zřejmé, že mnoho dokumentů nemůžeme z legálních nebo jiných důvodů zveřejňovat, ale tady je vše co můžeme: 
 
 - [mediální výstupy - přístupné](https://drive.google.com/drive/folders/1V67BpnxUAW7LP7s49ctVlDMbwDvbCSj3?usp=sharing)
